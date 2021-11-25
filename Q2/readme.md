@@ -4,4 +4,5 @@ Build decision tree model to predict survival based on certain parameters CSV fi
 2. Sex
 3. Age
 4. Fare
+
 Calculate score of your model.
